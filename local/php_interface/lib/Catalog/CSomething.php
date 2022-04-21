@@ -4,7 +4,7 @@ namespace lib\Catalog;
 use Bitrix\Highloadblock as HL;
 use Bitrix\Main\Entity;
 
-class CSomething
+class CColor
 {
   static function start()
   {
